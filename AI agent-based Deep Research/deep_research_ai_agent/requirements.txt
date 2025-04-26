@@ -1,0 +1,14 @@
+# Requirements for Deep Research AI Agentic System
+
+# Tavily crawling client (replace with actual package if available)
+# tavily-client
+
+# LangChain for answer drafting
+langchain
+
+# LangGraph client (replace with actual package if available)
+# langgraph-client
+
+# Other dependencies
+requests
+beautifulsoup4
